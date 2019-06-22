@@ -7,7 +7,6 @@ rm(list=ls())
 today=Sys.Date()
 start.date <- as.Date("2013-01-01")
 end.date   <- as.Date("2017-12-31")
-
 #ss_stock=getSymbols('005930.KS',from=today-365*1,to=today,auto.assign = F)
 
 #LJ 化学
